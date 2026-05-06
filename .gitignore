@@ -1,0 +1,7 @@
+# .gitignore 파일 내용
+__pycache__/
+.venv/
+venv/
+chroma_chat_db/
+chroma_emotion_db/
+.DS_Store
